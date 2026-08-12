@@ -1,0 +1,3 @@
+file 'C:\Users\LOQ\Downloads\vidai_studio_fixed\vidai-studio\backend\storage\videos\5d65d0eaa2ac\clip_1.mp4'
+file 'C:\Users\LOQ\Downloads\vidai_studio_fixed\vidai-studio\backend\storage\videos\5d65d0eaa2ac\clip_2.mp4'
+file 'C:\Users\LOQ\Downloads\vidai_studio_fixed\vidai-studio\backend\storage\videos\5d65d0eaa2ac\clip_3.mp4'
